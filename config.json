@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "",
-    "intro": "Extension of supplemental Figure 3. Bilateral mouse brain network constructed by Neurocarta and visualized in Gephi. Using the Fruchterman-Reingold algorithm a network layout was generated based solely on the network connectivity.",
+    "intro": "Bergmans and Celikel (under review). NeuroCarta: An Automated and Quantitative Approach to Mapping Cellular Networks in the Mouse Brain.<br><br>Extension of Supplemental Figure 3. Bilateral mouse brain network constructed by Neurocarta and visualized in Gephi. Using the Fruchterman-Reingold algorithm a network layout was generated based solely on the network connectivity.",
     "title": "Bilateral Mouse Brain Network"
   },
   "legend": {
